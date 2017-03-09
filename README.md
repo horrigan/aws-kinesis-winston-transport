@@ -5,7 +5,7 @@ A Winston transport for AWS Kinesis
 ## Configuration
 
     const winston = require("winston")
-    require("./aws-kinesis-winston-transport.js")
+    require("aws-kinesis-winston-transport")
 
     winston.configure({
         transports: [
