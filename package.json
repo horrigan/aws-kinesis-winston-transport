@@ -1,6 +1,6 @@
 {
   "name": "aws-kinesis-winston-transport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Winston transport for AWS Kinesis",
   "main": "aws-kinesis-winston-transport.js",
   "repository": {
