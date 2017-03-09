@@ -1,0 +1,26 @@
+{
+  "name": "aws-kinesis-winston-transport",
+  "version": "1.0.0",
+  "description": "A Winston transport for AWS Kinesis",
+  "main": "aws-kinesis-winston-transport.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virginholidays/aws-kinesis-winston-transport.git"
+  },
+  "keywords": [
+    "aws",
+    "kinesis",
+    "logging",
+    "winston"
+  ],
+  "author": "gareth.williams@virginholidays.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virginholidays/aws-kinesis-winston-transport/issues"
+  },
+  "homepage": "https://github.com/virginholidays/aws-kinesis-winston-transport#readme",
+  "dependencies": {
+    "aws-sdk": "^2.25.0",
+    "winston": "^2.3.1"
+  }
+}
